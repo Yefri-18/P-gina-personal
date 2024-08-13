@@ -15,4 +15,4 @@ Este es un proyecto de página web personal simple y elegante que muestra tus pr
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](screenshot.png)
+![Captura de Pantalla](Captura.PNG)
